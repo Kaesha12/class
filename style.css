@@ -1,0 +1,12 @@
+.jumbotron {
+    padding: 3rem 1rem;
+    background-color: #ffe0dd;
+    min-height: 450px;
+}
+.container .tentang {
+    min-height: 500px;
+}
+.container .foto {
+    background-color: #ffe0dd;
+    min-height: 450px;
+}
